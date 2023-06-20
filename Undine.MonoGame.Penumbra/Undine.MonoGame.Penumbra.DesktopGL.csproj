@@ -6,7 +6,7 @@
     <StartupObject />
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Tomasz Cekało</Authors>
-    <Version>0.0.3</Version>
+    <Version>0.0.4</Version>
     <Description>Penumbra bindings for Undine Game  Engine</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReleaseNotes></PackageReleaseNotes>
@@ -26,6 +26,6 @@
       <PrivateAssets>All</PrivateAssets>
     </PackageReference>
     <PackageReference Include="MonoGame.Penumbra.DesktopGL" Version="3.0.0" />
-    <PackageReference Include="Undine.MonoGame" Version="0.0.5" />
+    <PackageReference Include="Undine.MonoGame" Version="0.0.6" />
   </ItemGroup>
 </Project>
